@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  我的Google Pixel 4 使用体验
-date:   2020-07-28 
+date:   2020-08-08
 categories: 手机 使用体验
 ---
 
