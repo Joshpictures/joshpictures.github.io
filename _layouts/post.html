@@ -17,7 +17,8 @@ layout: default
     {%- endif -%}
   </div>
   <div class="post">
-    {{ content }}{% include ad.html %}
+    {{ content }}
+{% include ad.html %}
   </div>
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
