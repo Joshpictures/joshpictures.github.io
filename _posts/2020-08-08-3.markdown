@@ -15,3 +15,18 @@ categories: 手机 使用体验
 原生系统也确实是优化的最完美的。完全吊打我家长的ADUI（就是小米。用过都知道，小米手机日历里都有广告。🤬）和华为。
 拍照功能还是一样强大，强大的相机算法在夜晚也有夜视的效果。
 总而言之，我人生中第一部真正属于自己的手机，对我来说非常完美。（我7•24的VPN😜）
+<html>
+<body>
+<script type="text/javascript">
+    var vglnk = {key: '037024dfbfec201e649fe5b25a47e685'};
+    (function(d, t) {
+        var s = d.createElement(t);
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = '//cdn.viglink.com/api/vglnk.js';
+        var r = d.getElementsByTagName(t)[0];
+            r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>
+</body>
+</html>
