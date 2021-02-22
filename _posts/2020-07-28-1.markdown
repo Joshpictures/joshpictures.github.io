@@ -1,11 +1,7 @@
 ---
 layout: post
 title:  去追寻自由吧
-date:   2020-07-28 
-categories: 翻墙   VPN
+date:   2021-02-22 
+categories:
 ---
-
-墙外的世界丰富多彩,不要被愚蠢的网络防火墙蒙蔽了双眼.
-(不过至少GitHub没有被墙)
-翻墙工具的链接:
-https://github.com/JSH2002/APK/tree/master/VPN
+![avatar](/home/picture/1.png)
