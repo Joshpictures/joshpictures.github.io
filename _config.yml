@@ -1,8 +1,8 @@
-title: JSH的博客
-author: JSH
+title: Josh'Pictures
+author: Josh
 email: 
 description: > # this means to ignore newlines until "show_exerpts:"
-  我的个人博客
+  Josh'Personal Website
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: SH J
-  tagline: JOBLESS BOY
+  name: Josh
+  tagline: Give You Beautiful Pictures
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -22,9 +22,9 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: 
-    github:  https://github.com/JSH2002
+    github:  
     linkedIn: 
-    rss: rss
+    rss: 
     dribbble: 
     flickr:   
     instagram: 
@@ -48,7 +48,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: ass
+theme
 
 plugins:
   - jekyll-seo-tag
