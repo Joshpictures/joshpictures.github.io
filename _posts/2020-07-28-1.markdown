@@ -4,4 +4,4 @@ title:  去追寻自由吧
 date:   2021-02-22 
 categories:
 ---
-![avatar](/home/picture/1.png)
+![MF001](/images/aaa.png)
