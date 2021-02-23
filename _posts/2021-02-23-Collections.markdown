@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Collections
+title:  Collections(Tap For More Information)
 date:   2021-02-23
-categories:
+categories: Cosplay Chinese Cute
 ---
 
 Collection 1
